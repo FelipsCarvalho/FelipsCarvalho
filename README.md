@@ -27,3 +27,5 @@
   <a href="https://www.instagram.com/felipscarvalho/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-round&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/felipscarvalho/"/></a>
 </p>
+
+[![card](https://github-readme-stats.vercel.app/api?username=FelipsCarvalho&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
