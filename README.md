@@ -18,8 +18,8 @@
 </p>
 
 <p align="left">
-  <a href="mailto:felipecarvalho5520@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-round&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:felipecarvalho5520@gmail.com" /></a>
+  <a href="mailto:felipecarvalho5520@outlook.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-round&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:felipecarvalho5520@outlook.com" /></a>
 
   <a href="#" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-round&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
