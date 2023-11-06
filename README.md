@@ -1,20 +1,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="325px" max-width="325px" width="325px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Sou um jovem apaixonado por programação e com atuação marjoritária nas áreas de <strong>Web e IoT</strong>.<br>
+  Sou um estudande do Curso Integrado Redes de Computadores no Instituto Federal de Sergipe, cursando o terceiro ano do ensino médio.
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🦄 Linguagens: HTML, CSS, Javascript e Python.
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas: Node.js, Next.js, Adonis.js e Django.
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Entre em contato para garantir sua aplicação rodando o quanto antes: ⤵️
 </p>
 
 <p align="left">
