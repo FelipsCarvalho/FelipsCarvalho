@@ -29,6 +29,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipsCarvalho&theme=dark&show_icons=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipsCarvalho&hide=html&layout=compact&theme=dark" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipsCarvalho&theme=dark&show_icons=true" alt="stats" align="left">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipsCarvalho&hide=html&layout=compact&theme=dark" alt="languages" align="right">
 </p>
