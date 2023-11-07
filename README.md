@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: HTML, CSS, Javascript e Python.
+  🦄 Linguagens: HTML, CSS, Javascript, Typescript e Python.
 </p>
 
 <p align="left">
-  💼 Ferramentas: Node.js, Next.js, Adonis.js e Django.
+  💼 Ferramentas: Node.js, Next.js, Adonis.js, Tailwind, Django, Git e Github.
 </p>
 
 <p align="left">
