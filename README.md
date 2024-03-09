@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: Node.js, Next.js, Adonis.js, Tailwind, Django, Git e Github.
+  💼 Ferramentas: Node.js, Next.js, Adonis.js, Django, Git e Github.
 </p>
 
 <p align="left">
